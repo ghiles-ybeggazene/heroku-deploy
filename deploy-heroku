@@ -17,3 +17,9 @@
 - git push heroku master 
 
 - aller sur le navigateur https:// (votre app cree).herokuapp.com/
+
+
+
+- heroku logs   pour voir les logs
+
+- heroku restart -a app_name      relancer l'application
