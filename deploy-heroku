@@ -23,3 +23,7 @@
 - heroku logs   pour voir les logs
 
 - heroku restart -a app_name      relancer l'application
+
+- heroku maintenance    voir l'etat de l 'application 
+
+- heroku maintenance:on  pour faire une maintenance 
